@@ -1,4 +1,4 @@
-# We provide AI Consulting and Data Engineering Services.
+# We provide AI Engineering & Consulting Services.
 
 #### What is Data Engineering?
 
